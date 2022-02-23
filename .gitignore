@@ -1,0 +1,9 @@
+#ui
+labyrinth_ui/node_modules
+labyrinth_ui/package-lock.json
+
+#server
+labyrinth_server/target/
+labyrinth_server/.idea
+
+.idea
